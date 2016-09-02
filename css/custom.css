@@ -1,3 +1,14 @@
+body { 
+    text-align: center; 
+}
+#content {
+  width: 600px;
+  margin: auto;
+
+  position: relative;
+  text-align: left;
+}
+
 img{
     height: 200px;
     margin: 10px;
