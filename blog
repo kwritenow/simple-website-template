@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Blog: Kristi Leach</title>
+
+    <!--
+    including font awesome - it is nifty for adding icons to your webpage
+    see http://fortawesome.github.io/Font-Awesome/icons/
+    -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- 
+    including bootstrap - it is nifty for pre-styled components
+    see http://getbootstrap.com/components/ for components
+    see https://bootswatch.com/ for other bootstrap themes
+    -->
+    <link href="https://bootswatch.com/yeti/bootstrap.min.css" rel="stylesheet">
+
+    <!-- 
+    including a custom stylesheet that you can edit - css/custom.css
+    -->
+    <link href="css/custom.css" rel="stylesheet">
+
+  </head>
+
+  <body>
+    <div class="container-fluid colored-header">
+        <div class="row">
+          <div class="col-sm-8">
+            <h1>Kristi Leach</h1>
+            </div>
+            <div class="col-sm-4">Blog</div>
+            </div>
+            <div class="row">
+              <div class="col-sm-8">
+            <h4>Design Researcher</h4></div>
+            <div class="col-sm-4"><a href="https://www.linkedin.com/in/kristileach">Resume</a></div>
+            </div>
+
+    <div class="container">
+   
+
+          <!--
+          URL of hosted artifact
+          Key points
+          Contact
+          Date of conversation
+          Preview
+          
+          -->
+          </div>
+
+
+
+  </body>
+
+</html>
